@@ -27,6 +27,3 @@ The Student Information System (SIS) is designed to manage students and teachers
 Download any program that can make a local server then insert the database and run the project
 
 
-# My Contribution
-
-i made the login page  
